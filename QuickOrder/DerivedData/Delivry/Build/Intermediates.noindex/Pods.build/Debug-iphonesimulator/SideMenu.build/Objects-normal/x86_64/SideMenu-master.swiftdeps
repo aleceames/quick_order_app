@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "bf25956b7682f5cd4132841ba7f29cff"
+build_time: [1535747540, 895566000]
+inputs:
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/SideMenu/Pod/Classes/SideMenuManager.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/SideMenu/Pod/Classes/SideMenuTransition.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/SideMenu/Pod/Classes/UISideMenuNavigationController.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/SideMenu/Pod/Classes/UITableViewVibrantCell.swift": [1535055150, 0]

@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "8ba05a9d4e60cc98c28efd87fe953306"
+build_time: [1535747540, 896536000]
+inputs:
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/AFError.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/Alamofire.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/MultipartFormData.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/Notifications.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/ParameterEncoding.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/Request.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/Response.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/ResponseSerialization.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/Result.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/SessionDelegate.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/SessionManager.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/TaskDelegate.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/Timeline.swift": [1535055150, 0]
+  "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/Alamofire/Source/Validation.swift": [1535055150, 0]

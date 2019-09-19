@@ -1,0 +1,862 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "placeScreenViewController"
+provides-nominal:
+- "7Delivry25placeScreenViewControllerC"
+provides-member:
+- ["7Delivry25placeScreenViewControllerC", ""]
+provides-dynamic-lookup:
+- "buttonAction"
+- "viewDidLoad"
+- "viewWillTransition"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "CGRect"
+- "CGSize"
+- !private "CastingPrecedence"
+- !private "PURPLE_THEME"
+- "String"
+- !private "StringLiteralType"
+- !private "UIButton"
+- !private "UIControlState"
+- !private "UIDevice"
+- !private "UIView"
+- "UIViewController"
+- "UIViewControllerTransitionCoordinator"
+- !private "_ImageLiteralType"
+- "placeScreenViewController"
+- !private "titlePositioning"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "addTarget"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "removeFromSuperview"]
+- !private ["So15CALayerDelegateP", "setImage"]
+- !private ["So15CALayerDelegateP", "subviews"]
+- !private ["SC6CGRectV", "init"]
+- !private ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "PURPLE_THEME"]
+- !private ["s7CVarArgP", "UIButton"]
+- !private ["s7CVarArgP", "UIControlState"]
+- !private ["s7CVarArgP", "UIDevice"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "addTarget"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "buttonAction"]
+- !private ["s7CVarArgP", "createBackButton"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "navigationController"]
+- !private ["s7CVarArgP", "orientation"]
+- !private ["s7CVarArgP", "placeName"]
+- !private ["s7CVarArgP", "popViewController"]
+- !private ["s7CVarArgP", "removeFromSuperview"]
+- !private ["s7CVarArgP", "setImage"]
+- !private ["s7CVarArgP", "subviews"]
+- !private ["s7CVarArgP", "titlePositioning"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "PURPLE_THEME"]
+- !private ["s28CustomDebugStringConvertibleP", "UIButton"]
+- !private ["s28CustomDebugStringConvertibleP", "UIControlState"]
+- !private ["s28CustomDebugStringConvertibleP", "UIDevice"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "addTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "buttonAction"]
+- !private ["s28CustomDebugStringConvertibleP", "createBackButton"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "orientation"]
+- !private ["s28CustomDebugStringConvertibleP", "placeName"]
+- !private ["s28CustomDebugStringConvertibleP", "popViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "removeFromSuperview"]
+- !private ["s28CustomDebugStringConvertibleP", "setImage"]
+- !private ["s28CustomDebugStringConvertibleP", "subviews"]
+- !private ["s28CustomDebugStringConvertibleP", "titlePositioning"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "PURPLE_THEME"]
+- !private ["s23CustomStringConvertibleP", "UIButton"]
+- !private ["s23CustomStringConvertibleP", "UIControlState"]
+- !private ["s23CustomStringConvertibleP", "UIDevice"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "addTarget"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "buttonAction"]
+- !private ["s23CustomStringConvertibleP", "createBackButton"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "navigationController"]
+- !private ["s23CustomStringConvertibleP", "orientation"]
+- !private ["s23CustomStringConvertibleP", "placeName"]
+- !private ["s23CustomStringConvertibleP", "popViewController"]
+- !private ["s23CustomStringConvertibleP", "removeFromSuperview"]
+- !private ["s23CustomStringConvertibleP", "setImage"]
+- !private ["s23CustomStringConvertibleP", "subviews"]
+- !private ["s23CustomStringConvertibleP", "titlePositioning"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "CGRect"]
+- !private ["s9EquatableP", "PURPLE_THEME"]
+- !private ["s9EquatableP", "UIButton"]
+- !private ["s9EquatableP", "UIControlState"]
+- !private ["s9EquatableP", "UIDevice"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addSubview"]
+- !private ["s9EquatableP", "addTarget"]
+- !private ["s9EquatableP", "backgroundColor"]
+- !private ["s9EquatableP", "buttonAction"]
+- !private ["s9EquatableP", "createBackButton"]
+- !private ["s9EquatableP", "current"]
+- !private ["s9EquatableP", "frame"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isLandscape"]
+- !private ["s9EquatableP", "isPortrait"]
+- !private ["s9EquatableP", "navigationController"]
+- !private ["s9EquatableP", "normal"]
+- !private ["s9EquatableP", "orientation"]
+- !private ["s9EquatableP", "placeName"]
+- !private ["s9EquatableP", "popViewController"]
+- !private ["s9EquatableP", "removeFromSuperview"]
+- !private ["s9EquatableP", "setImage"]
+- !private ["s9EquatableP", "subviews"]
+- !private ["s9EquatableP", "titlePositioning"]
+- !private ["s9EquatableP", "touchUpInside"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- !private ["s25ExpressibleByArrayLiteralP", "touchUpInside"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "CGRect"]
+- !private ["s8HashableP", "PURPLE_THEME"]
+- !private ["s8HashableP", "UIButton"]
+- !private ["s8HashableP", "UIControlState"]
+- !private ["s8HashableP", "UIDevice"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addSubview"]
+- !private ["s8HashableP", "addTarget"]
+- !private ["s8HashableP", "backgroundColor"]
+- !private ["s8HashableP", "buttonAction"]
+- !private ["s8HashableP", "createBackButton"]
+- !private ["s8HashableP", "current"]
+- !private ["s8HashableP", "frame"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "isLandscape"]
+- !private ["s8HashableP", "isPortrait"]
+- !private ["s8HashableP", "navigationController"]
+- !private ["s8HashableP", "orientation"]
+- !private ["s8HashableP", "placeName"]
+- !private ["s8HashableP", "popViewController"]
+- !private ["s8HashableP", "removeFromSuperview"]
+- !private ["s8HashableP", "setImage"]
+- !private ["s8HashableP", "subviews"]
+- !private ["s8HashableP", "titlePositioning"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "viewDidLoad"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "CGRect"]
+- !private ["So8NSCodingP", "PURPLE_THEME"]
+- !private ["So8NSCodingP", "UIButton"]
+- !private ["So8NSCodingP", "UIControlState"]
+- !private ["So8NSCodingP", "UIDevice"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "addTarget"]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "buttonAction"]
+- !private ["So8NSCodingP", "createBackButton"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "navigationController"]
+- !private ["So8NSCodingP", "placeName"]
+- !private ["So8NSCodingP", "popViewController"]
+- !private ["So8NSCodingP", "removeFromSuperview"]
+- !private ["So8NSCodingP", "setImage"]
+- !private ["So8NSCodingP", "subviews"]
+- !private ["So8NSCodingP", "titlePositioning"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "CGRect"]
+- !private ["So26NSExtensionRequestHandlingP", "PURPLE_THEME"]
+- !private ["So26NSExtensionRequestHandlingP", "UIButton"]
+- !private ["So26NSExtensionRequestHandlingP", "UIControlState"]
+- !private ["So26NSExtensionRequestHandlingP", "UIDevice"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "buttonAction"]
+- !private ["So26NSExtensionRequestHandlingP", "createBackButton"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationController"]
+- !private ["So26NSExtensionRequestHandlingP", "placeName"]
+- !private ["So26NSExtensionRequestHandlingP", "popViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "titlePositioning"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "CGSize"]
+- !private ["So8NSObjectC", "PURPLE_THEME"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "UIControlState"]
+- !private ["So8NSObjectC", "UIDevice"]
+- !private ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "UIViewControllerTransitionCoordinator"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "addTarget"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- ["So8NSObjectC", "buttonAction"]
+- ["So8NSObjectC", "createBackButton"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "navigationController"]
+- !private ["So8NSObjectC", "orientation"]
+- ["So8NSObjectC", "placeName"]
+- !private ["So8NSObjectC", "popViewController"]
+- !private ["So8NSObjectC", "removeFromSuperview"]
+- !private ["So8NSObjectC", "setImage"]
+- !private ["So8NSObjectC", "subviews"]
+- !private ["So8NSObjectC", "titlePositioning"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewWillTransition"]
+- !private ["So16NSObjectProtocolP", "CGRect"]
+- !private ["So16NSObjectProtocolP", "PURPLE_THEME"]
+- !private ["So16NSObjectProtocolP", "UIButton"]
+- !private ["So16NSObjectProtocolP", "UIControlState"]
+- !private ["So16NSObjectProtocolP", "UIDevice"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "addSubview"]
+- !private ["So16NSObjectProtocolP", "addTarget"]
+- !private ["So16NSObjectProtocolP", "animate"]
+- !private ["So16NSObjectProtocolP", "backgroundColor"]
+- !private ["So16NSObjectProtocolP", "buttonAction"]
+- !private ["So16NSObjectProtocolP", "createBackButton"]
+- !private ["So16NSObjectProtocolP", "current"]
+- !private ["So16NSObjectProtocolP", "frame"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "navigationController"]
+- !private ["So16NSObjectProtocolP", "orientation"]
+- !private ["So16NSObjectProtocolP", "placeName"]
+- !private ["So16NSObjectProtocolP", "popViewController"]
+- !private ["So16NSObjectProtocolP", "removeFromSuperview"]
+- !private ["So16NSObjectProtocolP", "setImage"]
+- !private ["So16NSObjectProtocolP", "subviews"]
+- !private ["So16NSObjectProtocolP", "titlePositioning"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["s9OptionSetP", "touchUpInside"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "isLandscape"]
+- !private ["s16RawRepresentableP", "isPortrait"]
+- !private ["s16RawRepresentableP", "normal"]
+- !private ["s16RawRepresentableP", "touchUpInside"]
+- !private ["s8SequenceP", "init"]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["s10SetAlgebraP", "touchUpInside"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "addTarget"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "frame"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setImage"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "addTarget"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "removeFromSuperview"]
+- !private ["So29UIAccessibilityIdentificationP", "setImage"]
+- !private ["So29UIAccessibilityIdentificationP", "subviews"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "addTarget"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "removeFromSuperview"]
+- !private ["So12UIAppearanceP", "setImage"]
+- !private ["So12UIAppearanceP", "subviews"]
+- !private ["So21UIAppearanceContainerP", "CGRect"]
+- !private ["So21UIAppearanceContainerP", "PURPLE_THEME"]
+- !private ["So21UIAppearanceContainerP", "UIButton"]
+- !private ["So21UIAppearanceContainerP", "UIControlState"]
+- !private ["So21UIAppearanceContainerP", "UIDevice"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "addTarget"]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "buttonAction"]
+- !private ["So21UIAppearanceContainerP", "createBackButton"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "navigationController"]
+- !private ["So21UIAppearanceContainerP", "placeName"]
+- !private ["So21UIAppearanceContainerP", "popViewController"]
+- !private ["So21UIAppearanceContainerP", "removeFromSuperview"]
+- !private ["So21UIAppearanceContainerP", "setImage"]
+- !private ["So21UIAppearanceContainerP", "subviews"]
+- !private ["So21UIAppearanceContainerP", "titlePositioning"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "addTarget"]
+- !private ["So8UIButtonC", "frame"]
+- !private ["So8UIButtonC", "init"]
+- !private ["So8UIButtonC", "setImage"]
+- !private ["So18UIContentContainerP", "CGRect"]
+- !private ["So18UIContentContainerP", "PURPLE_THEME"]
+- !private ["So18UIContentContainerP", "UIButton"]
+- !private ["So18UIContentContainerP", "UIControlState"]
+- !private ["So18UIContentContainerP", "UIDevice"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "buttonAction"]
+- !private ["So18UIContentContainerP", "createBackButton"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "navigationController"]
+- !private ["So18UIContentContainerP", "placeName"]
+- !private ["So18UIContentContainerP", "popViewController"]
+- !private ["So18UIContentContainerP", "titlePositioning"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So9UIControlC", "addTarget"]
+- !private ["So9UIControlC", "frame"]
+- !private ["So9UIControlC", "init"]
+- !private ["So9UIControlC", "setImage"]
+- !private ["SC15UIControlEventsV", "touchUpInside"]
+- !private ["SC14UIControlStateV", "normal"]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "addTarget"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "removeFromSuperview"]
+- !private ["So17UICoordinateSpaceP", "setImage"]
+- !private ["So17UICoordinateSpaceP", "subviews"]
+- !private ["So8UIDeviceC", "current"]
+- !private ["So8UIDeviceC", "orientation"]
+- !private ["SC19UIDeviceOrientationO", "isLandscape"]
+- !private ["SC19UIDeviceOrientationO", "isPortrait"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "addTarget"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "removeFromSuperview"]
+- !private ["So13UIDynamicItemP", "setImage"]
+- !private ["So13UIDynamicItemP", "subviews"]
+- !private ["So18UIFocusEnvironmentP", "CGRect"]
+- !private ["So18UIFocusEnvironmentP", "PURPLE_THEME"]
+- !private ["So18UIFocusEnvironmentP", "UIButton"]
+- !private ["So18UIFocusEnvironmentP", "UIControlState"]
+- !private ["So18UIFocusEnvironmentP", "UIDevice"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "addTarget"]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "buttonAction"]
+- !private ["So18UIFocusEnvironmentP", "createBackButton"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "navigationController"]
+- !private ["So18UIFocusEnvironmentP", "placeName"]
+- !private ["So18UIFocusEnvironmentP", "popViewController"]
+- !private ["So18UIFocusEnvironmentP", "removeFromSuperview"]
+- !private ["So18UIFocusEnvironmentP", "setImage"]
+- !private ["So18UIFocusEnvironmentP", "subviews"]
+- !private ["So18UIFocusEnvironmentP", "titlePositioning"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "addTarget"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "removeFromSuperview"]
+- !private ["So11UIFocusItemP", "setImage"]
+- !private ["So11UIFocusItemP", "subviews"]
+- !private ["So22UINavigationControllerC", "popViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGRect"]
+- !private ["So30UIPasteConfigurationSupportingP", "PURPLE_THEME"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIControlState"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIDevice"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "addTarget"]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "buttonAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "createBackButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "placeName"]
+- !private ["So30UIPasteConfigurationSupportingP", "popViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "removeFromSuperview"]
+- !private ["So30UIPasteConfigurationSupportingP", "setImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "subviews"]
+- !private ["So30UIPasteConfigurationSupportingP", "titlePositioning"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "CGSize"]
+- !private ["So11UIResponderC", "PURPLE_THEME"]
+- ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "UIButton"]
+- !private ["So11UIResponderC", "UIControlState"]
+- !private ["So11UIResponderC", "UIDevice"]
+- !private ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", "UIViewControllerTransitionCoordinator"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "addTarget"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- ["So11UIResponderC", "buttonAction"]
+- ["So11UIResponderC", "createBackButton"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "navigationController"]
+- ["So11UIResponderC", "placeName"]
+- !private ["So11UIResponderC", "popViewController"]
+- !private ["So11UIResponderC", "removeFromSuperview"]
+- !private ["So11UIResponderC", "setImage"]
+- !private ["So11UIResponderC", "subviews"]
+- !private ["So11UIResponderC", "titlePositioning"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewWillTransition"]
+- !private ["So30UIResponderStandardEditActionsP", "CGRect"]
+- !private ["So30UIResponderStandardEditActionsP", "PURPLE_THEME"]
+- !private ["So30UIResponderStandardEditActionsP", "UIButton"]
+- !private ["So30UIResponderStandardEditActionsP", "UIControlState"]
+- !private ["So30UIResponderStandardEditActionsP", "UIDevice"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "addTarget"]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "buttonAction"]
+- !private ["So30UIResponderStandardEditActionsP", "createBackButton"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationController"]
+- !private ["So30UIResponderStandardEditActionsP", "placeName"]
+- !private ["So30UIResponderStandardEditActionsP", "popViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "removeFromSuperview"]
+- !private ["So30UIResponderStandardEditActionsP", "setImage"]
+- !private ["So30UIResponderStandardEditActionsP", "subviews"]
+- !private ["So30UIResponderStandardEditActionsP", "titlePositioning"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addTarget"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "frame"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setImage"]
+- !private ["So16UIStateRestoringP", "CGRect"]
+- !private ["So16UIStateRestoringP", "PURPLE_THEME"]
+- !private ["So16UIStateRestoringP", "UIButton"]
+- !private ["So16UIStateRestoringP", "UIControlState"]
+- !private ["So16UIStateRestoringP", "UIDevice"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "buttonAction"]
+- !private ["So16UIStateRestoringP", "createBackButton"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "navigationController"]
+- !private ["So16UIStateRestoringP", "placeName"]
+- !private ["So16UIStateRestoringP", "popViewController"]
+- !private ["So16UIStateRestoringP", "titlePositioning"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "CGRect"]
+- !private ["So18UITraitEnvironmentP", "PURPLE_THEME"]
+- !private ["So18UITraitEnvironmentP", "UIButton"]
+- !private ["So18UITraitEnvironmentP", "UIControlState"]
+- !private ["So18UITraitEnvironmentP", "UIDevice"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "addTarget"]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "buttonAction"]
+- !private ["So18UITraitEnvironmentP", "createBackButton"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "navigationController"]
+- !private ["So18UITraitEnvironmentP", "placeName"]
+- !private ["So18UITraitEnvironmentP", "popViewController"]
+- !private ["So18UITraitEnvironmentP", "removeFromSuperview"]
+- !private ["So18UITraitEnvironmentP", "setImage"]
+- !private ["So18UITraitEnvironmentP", "subviews"]
+- !private ["So18UITraitEnvironmentP", "titlePositioning"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "addTarget"]
+- !private ["So6UIViewC", "backgroundColor"]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "removeFromSuperview"]
+- !private ["So6UIViewC", "setImage"]
+- !private ["So6UIViewC", "subviews"]
+- !private ["So16UIViewControllerC", "CGRect"]
+- ["So16UIViewControllerC", "CGSize"]
+- !private ["So16UIViewControllerC", "PURPLE_THEME"]
+- ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "UIButton"]
+- !private ["So16UIViewControllerC", "UIControlState"]
+- !private ["So16UIViewControllerC", "UIDevice"]
+- !private ["So16UIViewControllerC", "UIView"]
+- ["So16UIViewControllerC", "UIViewControllerTransitionCoordinator"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "buttonAction"]
+- ["So16UIViewControllerC", "createBackButton"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "navigationController"]
+- ["So16UIViewControllerC", "placeName"]
+- !private ["So16UIViewControllerC", "popViewController"]
+- !private ["So16UIViewControllerC", "titlePositioning"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewWillTransition"]
+- !private ["So37UIViewControllerTransitionCoordinatorP", "animate"]
+- !private ["So44UIViewControllerTransitionCoordinatorContextP", "animate"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addTarget"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "removeFromSuperview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setImage"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "subviews"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PURPLE_THEME"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIControlState"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIDevice"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "buttonAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "createBackButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "orientation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "placeName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeFromSuperview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subviews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titlePositioning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["7Delivry25placeScreenViewControllerC", "CGRect"]
+- ["7Delivry25placeScreenViewControllerC", "CGSize"]
+- !private ["7Delivry25placeScreenViewControllerC", "PURPLE_THEME"]
+- ["7Delivry25placeScreenViewControllerC", "String"]
+- !private ["7Delivry25placeScreenViewControllerC", "UIButton"]
+- !private ["7Delivry25placeScreenViewControllerC", "UIControlState"]
+- !private ["7Delivry25placeScreenViewControllerC", "UIDevice"]
+- !private ["7Delivry25placeScreenViewControllerC", "UIView"]
+- ["7Delivry25placeScreenViewControllerC", "UIViewControllerTransitionCoordinator"]
+- ["7Delivry25placeScreenViewControllerC", "buttonAction"]
+- ["7Delivry25placeScreenViewControllerC", "createBackButton"]
+- ["7Delivry25placeScreenViewControllerC", "deinit"]
+- ["7Delivry25placeScreenViewControllerC", "init"]
+- !private ["7Delivry25placeScreenViewControllerC", "navigationController"]
+- ["7Delivry25placeScreenViewControllerC", "placeName"]
+- !private ["7Delivry25placeScreenViewControllerC", "titlePositioning"]
+- !private ["7Delivry25placeScreenViewControllerC", "view"]
+- ["7Delivry25placeScreenViewControllerC", "viewDidLoad"]
+- ["7Delivry25placeScreenViewControllerC", "viewWillTransition"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "SC6CGRectV"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "s9OptionSetP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "SC15UIControlEventsV"
+- !private "SC14UIControlStateV"
+- !private "So17UICoordinateSpaceP"
+- !private "So8UIDeviceC"
+- !private "SC19UIDeviceOrientationO"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "So37UIViewControllerTransitionCoordinatorP"
+- !private "So44UIViewControllerTransitionCoordinatorContextP"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+- "7Delivry25placeScreenViewControllerC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules/SideMenu.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Contacts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/Stripe-umbrella.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-umbrella.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadata.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentCardTextField.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCardBrand.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentMethod.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPApplePayPaymentMethod.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihood.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCard.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlace.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSUserAddedPlace.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSource.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteTableDataSource.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteBoundsMode.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPAPIResponseDecodable.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPFormEncodable.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPFile.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPTheme.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/UINavigationBar+Stripe_Theme.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/Stripe.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCardValidationState.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Headers/GMSPlacePickerConfig.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceProtocol.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPToken.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceVerification.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPUserInformation.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentConfiguration.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompletePrediction.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPEphemeralKeyProvider.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFetcher.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Headers/GMSPlacePicker.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Headers/GooglePlacePicker.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPAddCardViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCoreTableViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCoreViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCoreScrollViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Headers/GMSPlacePickerViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentMethodsViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPShippingAddressViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteResultsViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCustomer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceOwner.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFilter.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPBackendAPIAdapter.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceReceiver.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlayLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/StripeError.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCardValidator.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GooglePlaces.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceTypes.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPBlocks.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceCardDetails.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceSEPADebitDetails.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCardParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentIntentParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPBankAccountParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPConnectAccountParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPLegalEntityParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceEnums.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentIntentEnums.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/FauxPasAnnotations.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesErrors.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPAddress.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceRedirect.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-Swift.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentResult.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPAPIClient.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesClient.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteMatchFragment.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAddressComponent.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentIntent.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPBankAccount.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadataList.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihoodList.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCustomerContext.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPRedirectContext.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentContext.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentActivityIndicatorView.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPAPIClient+ApplePay.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPImageLibrary.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Contacts.framework/Headers/Contacts.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/PassKit.framework/Headers/PassKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "9164678f04303e0d7545f376784b5f3f"

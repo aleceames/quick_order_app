@@ -1,0 +1,1079 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So7UIColorC", ""]
+- ["So11UITextFieldC", ""]
+- ["So6UIViewC", ""]
+- ["So16UIViewControllerC", ""]
+- ["So25NSMutableAttributedStringC", ""]
+- ["So17UIAlertControllerC", ""]
+- ["So7UIColorC", "rgb"]
+- ["So7UIColorC", "riderDarkBlueColor"]
+- ["So7UIColorC", "riderBlueColor"]
+- ["So7UIColorC", "riderDarkGrayColor"]
+- ["So7UIColorC", "riderGrayColor"]
+- ["So7UIColorC", "riderLightGrayColor"]
+- ["So7UIColorC", "riderVeryLightGrayColor"]
+- ["So7UIColorC", "riderGreenColor"]
+- ["So7UIColorC", "riderLightGreenColor"]
+- ["So11UITextFieldC", "setBottomBorder"]
+- ["So6UIViewC", "anchors"]
+- ["So16UIViewControllerC", "hideKeyboard"]
+- ["So16UIViewControllerC", "dismissKeyboard"]
+- ["So25NSMutableAttributedStringC", "setAsLink"]
+- ["So17UIAlertControllerC", "init"]
+- ["So17UIAlertControllerC", "init"]
+provides-dynamic-lookup:
+- "dismissKeyboard"
+depends-top-level:
+- !private "!="
+- !private "-"
+- "/"
+- !private ">"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CGFloat"
+- !private "CGSize"
+- "NSLayoutXAxisAnchor"
+- "NSLayoutYAxisAnchor"
+- "NSMutableAttributedString"
+- !private "NSNotFound"
+- "String"
+- !private "StringLiteralType"
+- "UIAlertAction"
+- "UIAlertController"
+- "UIColor"
+- !private "UITapGestureRecognizer"
+- "UITextField"
+- "UIView"
+- "UIViewController"
+- "Void"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So7CALayerC", "backgroundColor"]
+- !private ["So7CALayerC", "shadowColor"]
+- !private ["So7CALayerC", "shadowOffset"]
+- !private ["So7CALayerC", "shadowOpacity"]
+- !private ["So7CALayerC", "shadowRadius"]
+- !private ["So15CALayerDelegateP", "CGSize"]
+- !private ["So15CALayerDelegateP", "addGestureRecognizer"]
+- !private ["So15CALayerDelegateP", "bottomAnchor"]
+- !private ["So15CALayerDelegateP", "endEditing"]
+- !private ["So15CALayerDelegateP", "heightAnchor"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "leftAnchor"]
+- !private ["So15CALayerDelegateP", "rightAnchor"]
+- !private ["So15CALayerDelegateP", "topAnchor"]
+- !private ["So15CALayerDelegateP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So15CALayerDelegateP", "widthAnchor"]
+- !private ["So13CAMediaTimingP", "backgroundColor"]
+- !private ["So13CAMediaTimingP", "shadowColor"]
+- !private ["So13CAMediaTimingP", "shadowOffset"]
+- !private ["So13CAMediaTimingP", "shadowOpacity"]
+- !private ["So13CAMediaTimingP", "shadowRadius"]
+- !private ["SC6CGSizeV", "init"]
+- !private ["So15CNKeyDescriptorP", "range"]
+- !private ["s7CVarArgP", "CGSize"]
+- !private ["s7CVarArgP", "NSNotFound"]
+- !private ["s7CVarArgP", "UIAlertAction"]
+- ["s7CVarArgP", "UIColor"]
+- !private ["s7CVarArgP", "UITapGestureRecognizer"]
+- !private ["s7CVarArgP", "UIViewController"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addAction"]
+- !private ["s7CVarArgP", "addAttribute"]
+- !private ["s7CVarArgP", "addGestureRecognizer"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "bottomAnchor"]
+- !private ["s7CVarArgP", "cancelsTouchesInView"]
+- !private ["s7CVarArgP", "cgColor"]
+- !private ["s7CVarArgP", "constraint"]
+- !private ["s7CVarArgP", "dismissKeyboard"]
+- !private ["s7CVarArgP", "endEditing"]
+- !private ["s7CVarArgP", "heightAnchor"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isActive"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "leftAnchor"]
+- !private ["s7CVarArgP", "mutableString"]
+- !private ["s7CVarArgP", "preferredAction"]
+- !private ["s7CVarArgP", "range"]
+- !private ["s7CVarArgP", "rightAnchor"]
+- !private ["s7CVarArgP", "shadowColor"]
+- !private ["s7CVarArgP", "shadowOffset"]
+- !private ["s7CVarArgP", "shadowOpacity"]
+- !private ["s7CVarArgP", "shadowRadius"]
+- !private ["s7CVarArgP", "topAnchor"]
+- !private ["s7CVarArgP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "widthAnchor"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CGSize"]
+- !private ["s28CustomDebugStringConvertibleP", "NSNotFound"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertAction"]
+- ["s28CustomDebugStringConvertibleP", "UIColor"]
+- !private ["s28CustomDebugStringConvertibleP", "UITapGestureRecognizer"]
+- !private ["s28CustomDebugStringConvertibleP", "UIViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "addAction"]
+- !private ["s28CustomDebugStringConvertibleP", "addAttribute"]
+- !private ["s28CustomDebugStringConvertibleP", "addGestureRecognizer"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "bottomAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "cancelsTouchesInView"]
+- !private ["s28CustomDebugStringConvertibleP", "cgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "constraint"]
+- !private ["s28CustomDebugStringConvertibleP", "dismissKeyboard"]
+- !private ["s28CustomDebugStringConvertibleP", "endEditing"]
+- !private ["s28CustomDebugStringConvertibleP", "heightAnchor"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isActive"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "leftAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "location"]
+- !private ["s28CustomDebugStringConvertibleP", "mutableString"]
+- !private ["s28CustomDebugStringConvertibleP", "preferredAction"]
+- !private ["s28CustomDebugStringConvertibleP", "range"]
+- !private ["s28CustomDebugStringConvertibleP", "rightAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowColor"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowOffset"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowOpacity"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "topAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "widthAnchor"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "location"]
+- !private ["s29CustomPlaygroundQuickLookableP", "range"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "location"]
+- !private ["s23CustomStringConvertibleP", "CGSize"]
+- !private ["s23CustomStringConvertibleP", "NSNotFound"]
+- !private ["s23CustomStringConvertibleP", "UIAlertAction"]
+- ["s23CustomStringConvertibleP", "UIColor"]
+- !private ["s23CustomStringConvertibleP", "UITapGestureRecognizer"]
+- !private ["s23CustomStringConvertibleP", "UIViewController"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addAction"]
+- !private ["s23CustomStringConvertibleP", "addAttribute"]
+- !private ["s23CustomStringConvertibleP", "addGestureRecognizer"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "bottomAnchor"]
+- !private ["s23CustomStringConvertibleP", "cancelsTouchesInView"]
+- !private ["s23CustomStringConvertibleP", "cgColor"]
+- !private ["s23CustomStringConvertibleP", "constraint"]
+- !private ["s23CustomStringConvertibleP", "dismissKeyboard"]
+- !private ["s23CustomStringConvertibleP", "endEditing"]
+- !private ["s23CustomStringConvertibleP", "heightAnchor"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isActive"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "leftAnchor"]
+- !private ["s23CustomStringConvertibleP", "location"]
+- !private ["s23CustomStringConvertibleP", "mutableString"]
+- !private ["s23CustomStringConvertibleP", "preferredAction"]
+- !private ["s23CustomStringConvertibleP", "range"]
+- !private ["s23CustomStringConvertibleP", "rightAnchor"]
+- !private ["s23CustomStringConvertibleP", "shadowColor"]
+- !private ["s23CustomStringConvertibleP", "shadowOffset"]
+- !private ["s23CustomStringConvertibleP", "shadowOpacity"]
+- !private ["s23CustomStringConvertibleP", "shadowRadius"]
+- !private ["s23CustomStringConvertibleP", "topAnchor"]
+- !private ["s23CustomStringConvertibleP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "widthAnchor"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "location"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "location"]
+- !private ["s9EquatableP", "CGSize"]
+- !private ["s9EquatableP", "NSNotFound"]
+- !private ["s9EquatableP", "UIAlertAction"]
+- ["s9EquatableP", "UIColor"]
+- !private ["s9EquatableP", "UITapGestureRecognizer"]
+- !private ["s9EquatableP", "UIViewController"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addAction"]
+- !private ["s9EquatableP", "addAttribute"]
+- !private ["s9EquatableP", "addGestureRecognizer"]
+- !private ["s9EquatableP", "alert"]
+- !private ["s9EquatableP", "backgroundColor"]
+- !private ["s9EquatableP", "bottomAnchor"]
+- !private ["s9EquatableP", "cancelsTouchesInView"]
+- !private ["s9EquatableP", "cgColor"]
+- !private ["s9EquatableP", "constraint"]
+- !private ["s9EquatableP", "default"]
+- !private ["s9EquatableP", "dismissKeyboard"]
+- !private ["s9EquatableP", "endEditing"]
+- !private ["s9EquatableP", "heightAnchor"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isActive"]
+- !private ["s9EquatableP", "layer"]
+- !private ["s9EquatableP", "leftAnchor"]
+- !private ["s9EquatableP", "link"]
+- !private ["s9EquatableP", "location"]
+- !private ["s9EquatableP", "mutableString"]
+- !private ["s9EquatableP", "preferredAction"]
+- !private ["s9EquatableP", "range"]
+- !private ["s9EquatableP", "rightAnchor"]
+- !private ["s9EquatableP", "shadowColor"]
+- !private ["s9EquatableP", "shadowOffset"]
+- !private ["s9EquatableP", "shadowOpacity"]
+- !private ["s9EquatableP", "shadowRadius"]
+- !private ["s9EquatableP", "topAnchor"]
+- !private ["s9EquatableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "widthAnchor"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "range"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "range"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "range"]
+- !private ["s8HashableP", "CGSize"]
+- !private ["s8HashableP", "NSNotFound"]
+- !private ["s8HashableP", "UIAlertAction"]
+- ["s8HashableP", "UIColor"]
+- !private ["s8HashableP", "UITapGestureRecognizer"]
+- !private ["s8HashableP", "UIViewController"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addAction"]
+- !private ["s8HashableP", "addAttribute"]
+- !private ["s8HashableP", "addGestureRecognizer"]
+- !private ["s8HashableP", "alert"]
+- !private ["s8HashableP", "backgroundColor"]
+- !private ["s8HashableP", "bottomAnchor"]
+- !private ["s8HashableP", "cancelsTouchesInView"]
+- !private ["s8HashableP", "cgColor"]
+- !private ["s8HashableP", "constraint"]
+- !private ["s8HashableP", "default"]
+- !private ["s8HashableP", "dismissKeyboard"]
+- !private ["s8HashableP", "endEditing"]
+- !private ["s8HashableP", "heightAnchor"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "isActive"]
+- !private ["s8HashableP", "layer"]
+- !private ["s8HashableP", "leftAnchor"]
+- !private ["s8HashableP", "link"]
+- !private ["s8HashableP", "location"]
+- !private ["s8HashableP", "mutableString"]
+- !private ["s8HashableP", "preferredAction"]
+- !private ["s8HashableP", "range"]
+- !private ["s8HashableP", "rightAnchor"]
+- !private ["s8HashableP", "shadowColor"]
+- !private ["s8HashableP", "shadowOffset"]
+- !private ["s8HashableP", "shadowOpacity"]
+- !private ["s8HashableP", "shadowRadius"]
+- !private ["s8HashableP", "topAnchor"]
+- !private ["s8HashableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "widthAnchor"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- ["So18NSAttributedStringC", "Bool"]
+- !private ["So18NSAttributedStringC", "NSNotFound"]
+- ["So18NSAttributedStringC", "String"]
+- !private ["So18NSAttributedStringC", "addAttribute"]
+- !private ["So18NSAttributedStringC", "mutableString"]
+- ["So18NSAttributedStringC", "setAsLink"]
+- !private ["SC21NSAttributedStringKeyV", "link"]
+- !private ["So8NSCodingP", "CGSize"]
+- !private ["So8NSCodingP", "NSNotFound"]
+- !private ["So8NSCodingP", "UIAlertAction"]
+- ["So8NSCodingP", "UIColor"]
+- !private ["So8NSCodingP", "UITapGestureRecognizer"]
+- !private ["So8NSCodingP", "UIViewController"]
+- !private ["So8NSCodingP", "addAction"]
+- !private ["So8NSCodingP", "addAttribute"]
+- !private ["So8NSCodingP", "addGestureRecognizer"]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "bottomAnchor"]
+- !private ["So8NSCodingP", "cgColor"]
+- !private ["So8NSCodingP", "dismissKeyboard"]
+- !private ["So8NSCodingP", "endEditing"]
+- !private ["So8NSCodingP", "heightAnchor"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "leftAnchor"]
+- !private ["So8NSCodingP", "mutableString"]
+- !private ["So8NSCodingP", "preferredAction"]
+- !private ["So8NSCodingP", "range"]
+- !private ["So8NSCodingP", "rightAnchor"]
+- !private ["So8NSCodingP", "shadowColor"]
+- !private ["So8NSCodingP", "shadowOffset"]
+- !private ["So8NSCodingP", "shadowOpacity"]
+- !private ["So8NSCodingP", "shadowRadius"]
+- !private ["So8NSCodingP", "topAnchor"]
+- !private ["So8NSCodingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "widthAnchor"]
+- !private ["So9NSCopyingP", "NSNotFound"]
+- ["So9NSCopyingP", "UIColor"]
+- !private ["So9NSCopyingP", "addAttribute"]
+- !private ["So9NSCopyingP", "cgColor"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "mutableString"]
+- !private ["So9NSCopyingP", "range"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertAction"]
+- !private ["So26NSExtensionRequestHandlingP", "UITapGestureRecognizer"]
+- !private ["So26NSExtensionRequestHandlingP", "UIViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "addAction"]
+- !private ["So26NSExtensionRequestHandlingP", "dismissKeyboard"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "preferredAction"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So21NSItemProviderReadingP", "NSNotFound"]
+- ["So21NSItemProviderReadingP", "UIColor"]
+- !private ["So21NSItemProviderReadingP", "addAttribute"]
+- !private ["So21NSItemProviderReadingP", "cgColor"]
+- ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "mutableString"]
+- !private ["So21NSItemProviderReadingP", "range"]
+- !private ["So21NSItemProviderWritingP", "NSNotFound"]
+- ["So21NSItemProviderWritingP", "UIColor"]
+- !private ["So21NSItemProviderWritingP", "addAttribute"]
+- !private ["So21NSItemProviderWritingP", "cgColor"]
+- ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "mutableString"]
+- !private ["So21NSItemProviderWritingP", "range"]
+- !private ["So14NSLayoutAnchorC", "constraint"]
+- !private ["So18NSLayoutConstraintC", "isActive"]
+- !private ["So17NSLayoutDimensionC", "constraint"]
+- !private ["So19NSLayoutXAxisAnchorC", "constraint"]
+- !private ["So19NSLayoutYAxisAnchorC", "constraint"]
+- ["So25NSMutableAttributedStringC", "Bool"]
+- !private ["So25NSMutableAttributedStringC", "NSNotFound"]
+- ["So25NSMutableAttributedStringC", "String"]
+- !private ["So25NSMutableAttributedStringC", "addAttribute"]
+- !private ["So25NSMutableAttributedStringC", "mutableString"]
+- ["So25NSMutableAttributedStringC", "setAsLink"]
+- !private ["So16NSMutableCopyingP", "NSNotFound"]
+- !private ["So16NSMutableCopyingP", "addAttribute"]
+- !private ["So16NSMutableCopyingP", "mutableString"]
+- !private ["So16NSMutableCopyingP", "range"]
+- !private ["So15NSMutableStringC", "range"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGFloat"]
+- !private ["So8NSObjectC", "CGSize"]
+- ["So8NSObjectC", "NSLayoutXAxisAnchor"]
+- ["So8NSObjectC", "NSLayoutYAxisAnchor"]
+- !private ["So8NSObjectC", "NSNotFound"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIAlertAction"]
+- ["So8NSObjectC", "UIColor"]
+- !private ["So8NSObjectC", "UITapGestureRecognizer"]
+- !private ["So8NSObjectC", "UIViewController"]
+- ["So8NSObjectC", "Void"]
+- !private ["So8NSObjectC", "addAction"]
+- !private ["So8NSObjectC", "addAttribute"]
+- !private ["So8NSObjectC", "addGestureRecognizer"]
+- ["So8NSObjectC", "anchors"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- !private ["So8NSObjectC", "bottomAnchor"]
+- !private ["So8NSObjectC", "cancelsTouchesInView"]
+- !private ["So8NSObjectC", "cgColor"]
+- !private ["So8NSObjectC", "constraint"]
+- ["So8NSObjectC", "dismissKeyboard"]
+- !private ["So8NSObjectC", "endEditing"]
+- !private ["So8NSObjectC", "heightAnchor"]
+- ["So8NSObjectC", "hideKeyboard"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isActive"]
+- !private ["So8NSObjectC", "layer"]
+- !private ["So8NSObjectC", "leftAnchor"]
+- !private ["So8NSObjectC", "mutableString"]
+- !private ["So8NSObjectC", "preferredAction"]
+- !private ["So8NSObjectC", "range"]
+- ["So8NSObjectC", "rgb"]
+- ["So8NSObjectC", "riderBlueColor"]
+- ["So8NSObjectC", "riderDarkBlueColor"]
+- ["So8NSObjectC", "riderDarkGrayColor"]
+- ["So8NSObjectC", "riderGrayColor"]
+- ["So8NSObjectC", "riderGreenColor"]
+- ["So8NSObjectC", "riderLightGrayColor"]
+- ["So8NSObjectC", "riderLightGreenColor"]
+- ["So8NSObjectC", "riderVeryLightGrayColor"]
+- !private ["So8NSObjectC", "rightAnchor"]
+- ["So8NSObjectC", "setAsLink"]
+- ["So8NSObjectC", "setBottomBorder"]
+- !private ["So8NSObjectC", "shadowColor"]
+- !private ["So8NSObjectC", "shadowOffset"]
+- !private ["So8NSObjectC", "shadowOpacity"]
+- !private ["So8NSObjectC", "shadowRadius"]
+- !private ["So8NSObjectC", "topAnchor"]
+- !private ["So8NSObjectC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So8NSObjectC", "view"]
+- !private ["So8NSObjectC", "widthAnchor"]
+- !private ["So16NSObjectProtocolP", "CGSize"]
+- !private ["So16NSObjectProtocolP", "NSNotFound"]
+- !private ["So16NSObjectProtocolP", "UIAlertAction"]
+- ["So16NSObjectProtocolP", "UIColor"]
+- !private ["So16NSObjectProtocolP", "UITapGestureRecognizer"]
+- !private ["So16NSObjectProtocolP", "UIViewController"]
+- !private ["So16NSObjectProtocolP", "addAction"]
+- !private ["So16NSObjectProtocolP", "addAttribute"]
+- !private ["So16NSObjectProtocolP", "addGestureRecognizer"]
+- !private ["So16NSObjectProtocolP", "backgroundColor"]
+- !private ["So16NSObjectProtocolP", "bottomAnchor"]
+- !private ["So16NSObjectProtocolP", "cancelsTouchesInView"]
+- !private ["So16NSObjectProtocolP", "cgColor"]
+- !private ["So16NSObjectProtocolP", "constraint"]
+- !private ["So16NSObjectProtocolP", "dismissKeyboard"]
+- !private ["So16NSObjectProtocolP", "endEditing"]
+- !private ["So16NSObjectProtocolP", "heightAnchor"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isActive"]
+- !private ["So16NSObjectProtocolP", "layer"]
+- !private ["So16NSObjectProtocolP", "leftAnchor"]
+- !private ["So16NSObjectProtocolP", "mutableString"]
+- !private ["So16NSObjectProtocolP", "preferredAction"]
+- !private ["So16NSObjectProtocolP", "range"]
+- !private ["So16NSObjectProtocolP", "rightAnchor"]
+- !private ["So16NSObjectProtocolP", "shadowColor"]
+- !private ["So16NSObjectProtocolP", "shadowOffset"]
+- !private ["So16NSObjectProtocolP", "shadowOpacity"]
+- !private ["So16NSObjectProtocolP", "shadowRadius"]
+- !private ["So16NSObjectProtocolP", "topAnchor"]
+- !private ["So16NSObjectProtocolP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "widthAnchor"]
+- !private ["So14NSSecureCodingP", "NSNotFound"]
+- ["So14NSSecureCodingP", "UIColor"]
+- !private ["So14NSSecureCodingP", "addAttribute"]
+- !private ["So14NSSecureCodingP", "backgroundColor"]
+- !private ["So14NSSecureCodingP", "cgColor"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "mutableString"]
+- !private ["So14NSSecureCodingP", "range"]
+- !private ["So14NSSecureCodingP", "shadowColor"]
+- !private ["So14NSSecureCodingP", "shadowOffset"]
+- !private ["So14NSSecureCodingP", "shadowOpacity"]
+- !private ["So14NSSecureCodingP", "shadowRadius"]
+- !private ["So8NSStringC", "range"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "alert"]
+- !private ["s16RawRepresentableP", "default"]
+- !private ["s16RawRepresentableP", "link"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "CGSize"]
+- !private ["So29UIAccessibilityIdentificationP", "addGestureRecognizer"]
+- !private ["So29UIAccessibilityIdentificationP", "bottomAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "endEditing"]
+- !private ["So29UIAccessibilityIdentificationP", "heightAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "leftAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "rightAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "topAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So29UIAccessibilityIdentificationP", "widthAnchor"]
+- !private ["So13UIAlertActionC", "init"]
+- !private ["SC18UIAlertActionStyleO", "default"]
+- ["So17UIAlertControllerC", "String"]
+- ["So17UIAlertControllerC", "UIAlertAction"]
+- ["So17UIAlertControllerC", "Void"]
+- !private ["So17UIAlertControllerC", "addAction"]
+- ["So17UIAlertControllerC", "init"]
+- !private ["So17UIAlertControllerC", "preferredAction"]
+- !private ["SC22UIAlertControllerStyleO", "alert"]
+- !private ["So12UIAppearanceP", "CGSize"]
+- !private ["So12UIAppearanceP", "addGestureRecognizer"]
+- !private ["So12UIAppearanceP", "bottomAnchor"]
+- !private ["So12UIAppearanceP", "endEditing"]
+- !private ["So12UIAppearanceP", "heightAnchor"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "leftAnchor"]
+- !private ["So12UIAppearanceP", "rightAnchor"]
+- !private ["So12UIAppearanceP", "topAnchor"]
+- !private ["So12UIAppearanceP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So12UIAppearanceP", "widthAnchor"]
+- !private ["So21UIAppearanceContainerP", "CGSize"]
+- !private ["So21UIAppearanceContainerP", "UIAlertAction"]
+- !private ["So21UIAppearanceContainerP", "UITapGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "UIViewController"]
+- !private ["So21UIAppearanceContainerP", "addAction"]
+- !private ["So21UIAppearanceContainerP", "addGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "bottomAnchor"]
+- !private ["So21UIAppearanceContainerP", "dismissKeyboard"]
+- !private ["So21UIAppearanceContainerP", "endEditing"]
+- !private ["So21UIAppearanceContainerP", "heightAnchor"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "leftAnchor"]
+- !private ["So21UIAppearanceContainerP", "preferredAction"]
+- !private ["So21UIAppearanceContainerP", "rightAnchor"]
+- !private ["So21UIAppearanceContainerP", "topAnchor"]
+- !private ["So21UIAppearanceContainerP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "widthAnchor"]
+- ["So7UIColorC", "CGFloat"]
+- ["So7UIColorC", "UIColor"]
+- !private ["So7UIColorC", "cgColor"]
+- ["So7UIColorC", "init"]
+- ["So7UIColorC", "rgb"]
+- ["So7UIColorC", "riderBlueColor"]
+- ["So7UIColorC", "riderDarkBlueColor"]
+- ["So7UIColorC", "riderDarkGrayColor"]
+- ["So7UIColorC", "riderGrayColor"]
+- ["So7UIColorC", "riderGreenColor"]
+- ["So7UIColorC", "riderLightGrayColor"]
+- ["So7UIColorC", "riderLightGreenColor"]
+- ["So7UIColorC", "riderVeryLightGrayColor"]
+- !private ["So18UIContentContainerP", "UIAlertAction"]
+- !private ["So18UIContentContainerP", "UITapGestureRecognizer"]
+- !private ["So18UIContentContainerP", "UIViewController"]
+- !private ["So18UIContentContainerP", "addAction"]
+- !private ["So18UIContentContainerP", "dismissKeyboard"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "preferredAction"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "CGSize"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "layer"]
+- !private ["So9UIControlC", "CGSize"]
+- ["So9UIControlC", "UIColor"]
+- !private ["So9UIControlC", "layer"]
+- ["So9UIControlC", "setBottomBorder"]
+- !private ["So17UICoordinateSpaceP", "CGSize"]
+- !private ["So17UICoordinateSpaceP", "addGestureRecognizer"]
+- !private ["So17UICoordinateSpaceP", "bottomAnchor"]
+- !private ["So17UICoordinateSpaceP", "endEditing"]
+- !private ["So17UICoordinateSpaceP", "heightAnchor"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "leftAnchor"]
+- !private ["So17UICoordinateSpaceP", "rightAnchor"]
+- !private ["So17UICoordinateSpaceP", "topAnchor"]
+- !private ["So17UICoordinateSpaceP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So17UICoordinateSpaceP", "widthAnchor"]
+- !private ["So13UIDynamicItemP", "CGSize"]
+- !private ["So13UIDynamicItemP", "addGestureRecognizer"]
+- !private ["So13UIDynamicItemP", "bottomAnchor"]
+- !private ["So13UIDynamicItemP", "endEditing"]
+- !private ["So13UIDynamicItemP", "heightAnchor"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "leftAnchor"]
+- !private ["So13UIDynamicItemP", "rightAnchor"]
+- !private ["So13UIDynamicItemP", "topAnchor"]
+- !private ["So13UIDynamicItemP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So13UIDynamicItemP", "widthAnchor"]
+- !private ["So18UIFocusEnvironmentP", "CGSize"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertAction"]
+- !private ["So18UIFocusEnvironmentP", "UITapGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "UIViewController"]
+- !private ["So18UIFocusEnvironmentP", "addAction"]
+- !private ["So18UIFocusEnvironmentP", "addGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "bottomAnchor"]
+- !private ["So18UIFocusEnvironmentP", "dismissKeyboard"]
+- !private ["So18UIFocusEnvironmentP", "endEditing"]
+- !private ["So18UIFocusEnvironmentP", "heightAnchor"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "leftAnchor"]
+- !private ["So18UIFocusEnvironmentP", "preferredAction"]
+- !private ["So18UIFocusEnvironmentP", "rightAnchor"]
+- !private ["So18UIFocusEnvironmentP", "topAnchor"]
+- !private ["So18UIFocusEnvironmentP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "widthAnchor"]
+- !private ["So11UIFocusItemP", "CGSize"]
+- !private ["So11UIFocusItemP", "addGestureRecognizer"]
+- !private ["So11UIFocusItemP", "bottomAnchor"]
+- !private ["So11UIFocusItemP", "endEditing"]
+- !private ["So11UIFocusItemP", "heightAnchor"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "leftAnchor"]
+- !private ["So11UIFocusItemP", "rightAnchor"]
+- !private ["So11UIFocusItemP", "topAnchor"]
+- !private ["So11UIFocusItemP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So11UIFocusItemP", "widthAnchor"]
+- !private ["So19UIGestureRecognizerC", "cancelsTouchesInView"]
+- !private ["So19UIGestureRecognizerC", "init"]
+- !private ["So10UIKeyInputP", "CGSize"]
+- !private ["So10UIKeyInputP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGSize"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "UITapGestureRecognizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "addAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "addGestureRecognizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "bottomAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismissKeyboard"]
+- !private ["So30UIPasteConfigurationSupportingP", "endEditing"]
+- !private ["So30UIPasteConfigurationSupportingP", "heightAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "leftAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "preferredAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "rightAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "topAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "widthAnchor"]
+- ["So11UIResponderC", "CGFloat"]
+- !private ["So11UIResponderC", "CGSize"]
+- ["So11UIResponderC", "NSLayoutXAxisAnchor"]
+- ["So11UIResponderC", "NSLayoutYAxisAnchor"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIAlertAction"]
+- ["So11UIResponderC", "UIColor"]
+- !private ["So11UIResponderC", "UITapGestureRecognizer"]
+- !private ["So11UIResponderC", "UIViewController"]
+- ["So11UIResponderC", "Void"]
+- !private ["So11UIResponderC", "addAction"]
+- !private ["So11UIResponderC", "addGestureRecognizer"]
+- ["So11UIResponderC", "anchors"]
+- !private ["So11UIResponderC", "bottomAnchor"]
+- ["So11UIResponderC", "dismissKeyboard"]
+- !private ["So11UIResponderC", "endEditing"]
+- !private ["So11UIResponderC", "heightAnchor"]
+- ["So11UIResponderC", "hideKeyboard"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- !private ["So11UIResponderC", "leftAnchor"]
+- !private ["So11UIResponderC", "preferredAction"]
+- !private ["So11UIResponderC", "rightAnchor"]
+- ["So11UIResponderC", "setBottomBorder"]
+- !private ["So11UIResponderC", "topAnchor"]
+- !private ["So11UIResponderC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So11UIResponderC", "view"]
+- !private ["So11UIResponderC", "widthAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "CGSize"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertAction"]
+- !private ["So30UIResponderStandardEditActionsP", "UITapGestureRecognizer"]
+- !private ["So30UIResponderStandardEditActionsP", "UIViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "addAction"]
+- !private ["So30UIResponderStandardEditActionsP", "addGestureRecognizer"]
+- !private ["So30UIResponderStandardEditActionsP", "bottomAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "dismissKeyboard"]
+- !private ["So30UIResponderStandardEditActionsP", "endEditing"]
+- !private ["So30UIResponderStandardEditActionsP", "heightAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "leftAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "preferredAction"]
+- !private ["So30UIResponderStandardEditActionsP", "rightAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "topAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "widthAnchor"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "UIAlertAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "preferredAction"]
+- !private ["So16UIStateRestoringP", "UIAlertAction"]
+- !private ["So16UIStateRestoringP", "UITapGestureRecognizer"]
+- !private ["So16UIStateRestoringP", "UIViewController"]
+- !private ["So16UIStateRestoringP", "addAction"]
+- !private ["So16UIStateRestoringP", "dismissKeyboard"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "preferredAction"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So22UITapGestureRecognizerC", "cancelsTouchesInView"]
+- !private ["So22UITapGestureRecognizerC", "init"]
+- !private ["So15UITextDraggableP", "CGSize"]
+- !private ["So15UITextDraggableP", "layer"]
+- !private ["So15UITextDroppableP", "CGSize"]
+- !private ["So15UITextDroppableP", "layer"]
+- !private ["So11UITextFieldC", "CGSize"]
+- ["So11UITextFieldC", "UIColor"]
+- !private ["So11UITextFieldC", "layer"]
+- ["So11UITextFieldC", "setBottomBorder"]
+- !private ["So11UITextInputP", "CGSize"]
+- !private ["So11UITextInputP", "layer"]
+- !private ["So17UITextInputTraitsP", "CGSize"]
+- !private ["So17UITextInputTraitsP", "layer"]
+- !private ["So34UITextPasteConfigurationSupportingP", "CGSize"]
+- !private ["So34UITextPasteConfigurationSupportingP", "layer"]
+- !private ["So18UITraitEnvironmentP", "CGSize"]
+- !private ["So18UITraitEnvironmentP", "UIAlertAction"]
+- !private ["So18UITraitEnvironmentP", "UITapGestureRecognizer"]
+- !private ["So18UITraitEnvironmentP", "UIViewController"]
+- !private ["So18UITraitEnvironmentP", "addAction"]
+- !private ["So18UITraitEnvironmentP", "addGestureRecognizer"]
+- !private ["So18UITraitEnvironmentP", "bottomAnchor"]
+- !private ["So18UITraitEnvironmentP", "dismissKeyboard"]
+- !private ["So18UITraitEnvironmentP", "endEditing"]
+- !private ["So18UITraitEnvironmentP", "heightAnchor"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "leftAnchor"]
+- !private ["So18UITraitEnvironmentP", "preferredAction"]
+- !private ["So18UITraitEnvironmentP", "rightAnchor"]
+- !private ["So18UITraitEnvironmentP", "topAnchor"]
+- !private ["So18UITraitEnvironmentP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "widthAnchor"]
+- ["So6UIViewC", "CGFloat"]
+- !private ["So6UIViewC", "CGSize"]
+- ["So6UIViewC", "NSLayoutXAxisAnchor"]
+- ["So6UIViewC", "NSLayoutYAxisAnchor"]
+- ["So6UIViewC", "UIColor"]
+- !private ["So6UIViewC", "addGestureRecognizer"]
+- ["So6UIViewC", "anchors"]
+- !private ["So6UIViewC", "bottomAnchor"]
+- !private ["So6UIViewC", "endEditing"]
+- !private ["So6UIViewC", "heightAnchor"]
+- !private ["So6UIViewC", "layer"]
+- !private ["So6UIViewC", "leftAnchor"]
+- !private ["So6UIViewC", "rightAnchor"]
+- ["So6UIViewC", "setBottomBorder"]
+- !private ["So6UIViewC", "topAnchor"]
+- !private ["So6UIViewC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So6UIViewC", "widthAnchor"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIAlertAction"]
+- !private ["So16UIViewControllerC", "UITapGestureRecognizer"]
+- !private ["So16UIViewControllerC", "UIViewController"]
+- ["So16UIViewControllerC", "Void"]
+- !private ["So16UIViewControllerC", "addAction"]
+- ["So16UIViewControllerC", "dismissKeyboard"]
+- ["So16UIViewControllerC", "hideKeyboard"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "preferredAction"]
+- !private ["So16UIViewControllerC", "view"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGSize"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addGestureRecognizer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bottomAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "endEditing"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "heightAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "leftAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "rightAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "topAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "widthAnchor"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s26_ExpressibleByColorLiteralP", "UIColor"]
+- !private ["s26_ExpressibleByColorLiteralP", "cgColor"]
+- ["s26_ExpressibleByColorLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "range"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSNotFound"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertAction"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UITapGestureRecognizer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAttribute"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addGestureRecognizer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bottomAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cancelsTouchesInView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "constraint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismissKeyboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "endEditing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "heightAnchor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isActive"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "leftAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mutableString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "preferredAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "range"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rightAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowOffset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowOpacity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "topAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "widthAnchor"]
+- !private ["SC8_NSRangeV", "location"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "link"]
+- !private ["s21_ObjectiveCBridgeableP", "location"]
+- !private ["s20_SwiftNewtypeWrapperP", "link"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- !private "SC6CGSizeV"
+- !private "So15CNKeyDescriptorP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So18NSAttributedStringC"
+- !private "SC21NSAttributedStringKeyV"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- !private "So14NSLayoutAnchorC"
+- !private "So18NSLayoutConstraintC"
+- !private "So17NSLayoutDimensionC"
+- !private "So19NSLayoutXAxisAnchorC"
+- !private "So19NSLayoutYAxisAnchorC"
+- "So25NSMutableAttributedStringC"
+- !private "So16NSMutableCopyingP"
+- !private "So15NSMutableStringC"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So13UIAlertActionC"
+- !private "SC18UIAlertActionStyleO"
+- "So17UIAlertControllerC"
+- !private "SC22UIAlertControllerStyleO"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- "So7UIColorC"
+- !private "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So19UIGestureRecognizerC"
+- !private "So10UIKeyInputP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- !private "So16UIStateRestoringP"
+- !private "So22UITapGestureRecognizerC"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- !private "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "SC8_NSRangeV"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules/SideMenu.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Contacts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/Stripe-umbrella.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-umbrella.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadata.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentCardTextField.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCardBrand.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentMethod.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPApplePayPaymentMethod.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihood.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCard.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlace.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSUserAddedPlace.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSource.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteTableDataSource.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteBoundsMode.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPAPIResponseDecodable.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPFormEncodable.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPFile.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPTheme.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/UINavigationBar+Stripe_Theme.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/Stripe.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCardValidationState.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Headers/GMSPlacePickerConfig.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceProtocol.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPToken.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceVerification.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPUserInformation.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentConfiguration.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompletePrediction.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPEphemeralKeyProvider.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFetcher.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Headers/GMSPlacePicker.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Headers/GooglePlacePicker.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPAddCardViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCoreTableViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCoreViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCoreScrollViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Headers/GMSPlacePickerViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentMethodsViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPShippingAddressViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteResultsViewController.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCustomer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceOwner.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFilter.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPBackendAPIAdapter.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceReceiver.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlayLayer.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/StripeError.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCardValidator.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GooglePlaces.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceTypes.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPBlocks.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceCardDetails.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceSEPADebitDetails.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCardParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentIntentParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPBankAccountParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPConnectAccountParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPLegalEntityParams.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceEnums.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentIntentEnums.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/FauxPasAnnotations.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesErrors.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPAddress.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPSourceRedirect.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Headers/SideMenu-Swift.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentResult.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPAPIClient.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesClient.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteMatchFragment.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAddressComponent.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentIntent.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPBankAccount.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadataList.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihoodList.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPCustomerContext.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPRedirectContext.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentContext.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPPaymentActivityIndicatorView.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPAPIClient+ApplePay.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Headers/STPImageLibrary.h"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Stripe/Stripe.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Users/Benjamin/Desktop/Delivry/Delivry/DerivedData/Delivry/Build/Products/Debug-iphonesimulator/SideMenu/SideMenu.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Contacts.framework/Headers/Contacts.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/PassKit.framework/Headers/PassKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "891fdcb2ac1c9fde64a1f24aeb1b0add"
